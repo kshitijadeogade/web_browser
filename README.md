@@ -35,7 +35,7 @@ Support for multiple tabs.
 Customize the default home page.
 Include a history feature.
 
-#License
+# License
 This project is licensed under the MIT License. Feel free to use, modify, and distribute it.
 
 # Author
